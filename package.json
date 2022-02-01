@@ -1,0 +1,65 @@
+{
+  "name": "Bot-do-Lorran",
+  "version": "1.0.5",
+  "description": "Primeira versão",
+  "main": "start.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node start.js",
+    "test": "test start.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.3",
+    "jimp": "^0.16.1",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.29.3",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "parse-ms": "^2.1.0",
+    "ms": "^2.1.3",
+    "axios": "^0.25.0",
+    "brainly-scraper": "^1.0.3",
+    "cfonts": "^2.10.0",
+    "cheerio": "^1.0.0-rc.10",
+    "child-process": "^1.0.2",
+    "colors": "^1.4.0",
+    "emoji-api": "^2.0.1",
+    "file-type": "16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "g-i-s": "^2.1.6",
+    "google-it": "^1.6.2",
+    "hxz-api": "^1.0.1",
+    "imgbb-uploader": "^1.3.5",
+    "insta-fetcher": "^1.3.1",
+    "jsdom": "^19.0.0",
+    "moment-timezone": "^0.5.34",
+    "node-fetch": "^2.6.2",
+    "ytdl-core": "^4.10.0",
+    "performance-now": "^2.1.0",
+    "pm2": "^5.1.2",
+    "multistream": "^4.1.0",
+    "qrcode": "^1.5.0",
+    "qs": "^6.10.3",
+    "request": "^2.88.2",
+    "spinnies": "^0.5.1",
+    "fake-useragent": "^1.0.1",
+    "yt-search": "^2.10.3",
+    "util": "^0.12.4",
+    "@vitalets/google-translate-api": "^7.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LorranX/teste"
+  },
+  "keywords": [
+    "LORRAN",
+    "BOT"
+  ],
+  "author": "Lorran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LorranX/teste/issues"
+  },
+  "homepage": "https://github.com/LorranX/teste#readme"
+}
